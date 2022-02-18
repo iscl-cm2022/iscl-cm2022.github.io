@@ -22,6 +22,22 @@ a selection of influential and/or recent papers from the literature,
 and discuss them in the class.
 The participants will also be required to complete small projects.
 
+The questions of interest for this course include:
+
+- Can we (precisely and computationally) describe morphology of a language?
+- Can we, or to what extent, segment words in natural languages to
+  segments that correspond to morphemes?
+- What is a word anyway? How can we discover words in speech, or texts
+  written without clear hints to word boundaries?
+- Can we build models of morphological processing purely data-driven
+  manner? Do we still need rule-based models/descriptions of
+  natural languages?
+- Can we help document low-resource, endangered language with the help
+  of computational methods?
+- What makes a language morphologically complex or rich? Can we
+  quantify morphological complexity? Is it relevant to natural
+  language processing (e.g., with modern NLP systems)?
+
 Grading will be based on class participation and homeworks (6ECTS).
 Further course credits can be obtained by 
 a term project described in a term paper (9ECTS)
